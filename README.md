@@ -21,7 +21,7 @@ README.md: este documento con toda la información del proyecto.
 ## Uso
 Clonar el repositorio:
 
-git clone https://github.com/flaviamendez/Practica4.git
+git clone https://github.com/flaviamendez/Practica-4.git
 cd Practica4
 
 Compilar y ejecutar con Make:
